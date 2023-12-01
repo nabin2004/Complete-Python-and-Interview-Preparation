@@ -1,8 +1,6 @@
-### Course Title: Python Programming Syllabus tracker
+### Python Programming Syllabus tracker
 
-**Course Description:**
-This comprehensive Python programming masterclass is designed for beginners and intermediate learners. The course covers a wide range of topics, starting from the basics of variables and printing, progressing through fundamental concepts like strings, booleans, and lists, and eventually delving into advanced topics such as object-oriented programming, error handling, file operations, web scraping, and more. The course is structured to provide a hands-on learning experience with exercises and solutions to reinforce your understanding of each concept.
-
+**Description:**
 ---
 
 ### **Section 1: Introduction to Python Basics**
